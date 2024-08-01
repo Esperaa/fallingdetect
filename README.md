@@ -2,7 +2,7 @@
 # Descriptions here for outdoor fall-detection device
 
 ### version 1.0
-![DATA]()
+![DATA](DEV.png)    ![DATA1](Process.png)
 
 
 
