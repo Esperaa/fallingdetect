@@ -15,15 +15,12 @@ How to use? or other infos? see here!
  ![DATA1](Process.png)
 ---
 
-### version 2.0
+
 
 Changes are made on software of the device, based on the fbs from users.
 Changes include: 
 
----
-How to use? or other infos? see here!
-#### [Instruction Link! Click here!](https://esperaa.github.io/WebextensionforAutome-/)
----
+
 
 
 
