@@ -2,12 +2,17 @@
 # Descriptions here for outdoor fall-detection device
 
 ### version 1.0
-![DATA](DEV.png)    ![DATA1](Process.png)
+![DATA](DEV.png)    
 
+### version 2.0
 
+How to use? or other infos? see here!
+#### [Instruction Link! Click here!](https://esperaa.github.io/WebextensionforAutome-/)
+
+---
 
 #### Running Flow Chart 
-
+ ![DATA1](Process.png)
 ---
 
 ### version 2.0
