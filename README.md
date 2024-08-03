@@ -45,6 +45,12 @@ These are data collected from investigation papers. Hundreds of pepole (age 18-8
 These are data collected from investigation papers. Users filled the questionaire2. According to the data I made a conclusion for ⬇️
 
 
+
+#### Helping Map
+
+
+
+
 ##### -The aspects that I will inculded in my second version
 - More physical protections to the device, which will make it more durable
 - With initial calibration of the position in angle sensor,
