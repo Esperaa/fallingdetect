@@ -15,7 +15,8 @@
 ---
 
 使用说明链接
-#### [点击打开使用说明](https://esperaa.github.io/WebextensionforAutome-/)
+
+[点击打开使用说明](https://esperaa.github.io/WebextensionforAutome-/)
 
 ---
 
