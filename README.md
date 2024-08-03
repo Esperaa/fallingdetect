@@ -1,5 +1,5 @@
 
-# Descriptions here for outdoor fall-detection device
+# 跌倒检测装置的细节信息
 
 Version 1.0
  
@@ -7,74 +7,57 @@ Version 1.0
 
 
 Version 2.0
-###### The fundamental appearance remains unchanged, while the improvements to the device mainly include the following aspects:
+###### 基本外观保持不变，而设备的改进主要包括以下几个方面：
 
-- ###### A protective plastic pad has been added to the rear side of the circuit board to prevent impacts and safeguard the rear circuitry.
-- ######  The initial placement position of Version1.0 has been eliminated; detection will now be based on the position after power activation (thus enhancing usability). 
-- ######  The delay in sending alarm notifications has been canceled, allowing for immediate alarming message sending. The cancellation button is now solely designated for silencing the buzzer alarm and restarting the program.
+- ###### 在电路板的背面增加了一层保护塑料垫，以防止冲击并保护后面的电路。
+- ###### 已取消版本1.0的初始放置位置；检测将基于开机后的放置位置（从而提高了可用性）。
+- ###### 取消了发送警报通知的延迟，允许立即发送警报信息。取消按钮现在仅用于静音蜂鸣器警报和重新启动程序。
+---
+
+使用说明链接
+#### [点击打开使用说明](https://esperaa.github.io/WebextensionforAutome-/)
 
 ---
 
-How to use? or other infos? see here!
-#### [Instruction Link! Click here!](https://esperaa.github.io/WebextensionforAutome-/)
-
----
-
-#### Running Flow Chart 
+#### 程序流程图
  ![DATA1](LTC.png)
 ---
 
 
 
-Changes are made on software of the device, based on the fbs from users.
-Changes include: 
 
 
 
 
 
 
-##### -Questionaire Data
-###### the first investigation
-[Data Link](https://esperaa.github.io/testwebsite/)
-These are data collected from investigation papers. Hundreds of pepole (age 18-80) filled the questionaire. According to the data I made a conclusion for ⬇️
+##### -问卷数据展示
+###### 第一次问卷调查
+[问卷1数据展示](https://esperaa.github.io/testwebsite/)
 
-##### -The aspects that I will inculded in my first version
-- The device should be small and portable 
-- It should have high precision
-- It cannot affect users' privacy
-- It should be safe
-- It should be easy to use
+这些数据来自调查报告。数百人（年龄在18到80岁之间）填写了问卷。根据这些数据，我得出以下结论：
+
+##### - 我将在第一版中包含的方面
+- 设备应当小巧便携
+- 应具备高精度
+- 不应影响用户的隐私
+- 应当安全
+- 应该易于使用
   
 ---
-###### the second investigation
-These are data collected from investigation papers. Users filled the questionaire2. According to the data I made a conclusion for ⬇
+###### 第二次问卷调查
+这些数据来自于使用者。根据这些数据，我得出以下结论：
 
-
-
-##### -The aspects that I will inculded in my second version
-- More physical protections to the device, which will make it more durable
-- With initial calibration of the position in angle sensor,
-  which will make the device more flexible, without starting
-  with a specific angle.
-- 5 second waiting time for sending emergency message after the detection is canceled
-#### Helping Map
+##### - 我将在第二版中包含的方面
+- 为设备增加更多的物理保护，以提高其耐用性
+- 对角度传感器进行初始校准，使设备更加灵活，无需从特定角度放置再开始
+- 取消发送报警前的5秒等待时间，直接发送信息
+#### 帮助地图
 ![MAP](MAP3.png)
 
-##### Currently, 27 elderly & young kids in 2 cities (ChangZhou/ZhengJiang) have received the device //Update time: 03/08/2024
----
-##### Feedbacks
-Want to tell me something about the product?/ Want to have one?
-###### 👉email to: Fall_detectemail@qq.com
----
-
-##### Renovations
+##### 目前，已有27位来自常州市，镇江市的人收到了免费的装置。
 
 
--Questionaire link 1: For viewpoints on designing this device
-###### ➡️[Click here to do the questionaire!](https://v.wjx.cn/vm/Q2Frjo2.aspx#)📝
-
--Questionaire link2: For users who used the first generation
 
 ---
 [Homepage Link](esperaa.github.io/meaidevice/)
