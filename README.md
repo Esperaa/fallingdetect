@@ -42,13 +42,7 @@ These are data collected from investigation papers. Hundreds of pepole (age 18-8
 - It should be easy for use
 ---
 ###### the second investigation
-These are data collected from investigation papers. Users filled the questionaire2. According to the data I made a conclusion for ⬇️
-
-
-
-#### Helping Map
-![MAP](MAP3.png)
-
+These are data collected from investigation papers. Users filled the questionaire2. According to the data I made a conclusion for ⬇
 
 
 
@@ -58,7 +52,10 @@ These are data collected from investigation papers. Users filled the questionair
   which will make the device more flexible, without starting
   with a specific angle.
 - 5 second waiting time for sending emergency message after the detection is canceled
+#### Helping Map
+![MAP](MAP3.png)
 
+##### Currently, 27 elderly & young kids in 2 cities (ChangZhou/ZhengJiang) have received the device //Update time: 03/08/2024
 ---
 ##### Feedbacks
 Want to tell me something about the product?/ Want to have one?
