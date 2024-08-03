@@ -44,7 +44,8 @@ These are data collected from investigation papers. Hundreds of pepole (age 18-8
 - It should have high precision
 - It cannot affect users' privacy
 - It should be safe
-- It should be easy for use
+- It should be easy to use
+  
 ---
 ###### the second investigation
 These are data collected from investigation papers. Users filled the questionaire2. According to the data I made a conclusion for ⬇
