@@ -47,6 +47,7 @@ These are data collected from investigation papers. Users filled the questionair
 
 
 #### Helping Map
+![MAP](MAP3.png)
 
 
 
