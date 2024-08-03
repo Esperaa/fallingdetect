@@ -6,6 +6,10 @@
 
 ### version 2.0
 
+
+
+---
+
 How to use? or other infos? see here!
 #### [Instruction Link! Click here!](https://esperaa.github.io/WebextensionforAutome-/)
 
