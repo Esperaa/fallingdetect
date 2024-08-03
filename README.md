@@ -1,12 +1,12 @@
 
 # Descriptions here for outdoor fall-detection device
 
-### version 1.0
+Version 1.0
  
 ![DATA](DEV.png)    
 
 
-### version 2.0
+Version 2.0
 ###### The fundamental appearance remains unchanged, while the improvements to the device mainly include the following aspects:
 
 - ###### A protective plastic pad has been added to the rear side of the circuit board to prevent impacts and safeguard the rear circuitry.
