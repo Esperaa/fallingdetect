@@ -2,7 +2,9 @@
 # Descriptions here for outdoor fall-detection device
 
  ### version 1.0
+ 
 ![DATA](DEV.png)    
+
 
  ### version 2.0
 ###### The fundamental appearance remains unchanged, while the improvements to the device mainly include the following aspects:
