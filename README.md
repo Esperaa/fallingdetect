@@ -48,7 +48,7 @@
 ###### ➡️[点击填写问卷1](https://v.wjx.cn/vm/Q2Frjo2.aspx#)📝
 
 -问卷链接2: 对于1代和2代使用者的调查
-###### 👉[点击填写问卷2](https://www.wjx.cn/vm/Q72F9Z0.aspx# )
+###### ➡️[点击填写问卷2](https://www.wjx.cn/vm/Q72F9Z0.aspx# )📝
 
 ---
 [Homepage Link](esperaa.github.io/meaidevice/)
